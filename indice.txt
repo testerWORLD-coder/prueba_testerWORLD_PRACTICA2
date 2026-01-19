@@ -1,3 +1,4 @@
 Capitulo 1: Introduccion a Git
 Capitulo 2: Flujo de trabajo basico
 Capitulo 3: Gestión de ramas y conflicto
+Capítulo 4: Resolución de conflictos
